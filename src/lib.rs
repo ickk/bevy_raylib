@@ -50,7 +50,7 @@ pub fn update_cursor(raylib_context: NonSend<RaylibContext>, mut cursor: ResMut<
 }
 
 pub struct RaylibContext {
-    rl: RaylibHandle,
+    pub rl: RaylibHandle,
     thread: RaylibThread,
 }
 
