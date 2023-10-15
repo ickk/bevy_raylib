@@ -2,7 +2,7 @@
 name = "bevy_raylib"
 version = "0.0.0"
 edition = "2021"
-license = "MIT OR Apache-2.0"
+license = "MIT OR Apache-2.0 OR ZLIB"
 
 [dependencies]
 bevy_app = "0.11"
