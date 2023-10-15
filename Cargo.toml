@@ -1,8 +1,13 @@
 [package]
 name = "bevy_raylib"
-version = "0.0.0"
+version = "0.0.1"
 edition = "2021"
-license = "MIT OR Apache-2.0 OR ZLIB"
+license = "MIT OR Apache-2.0 OR Zlib"
+authors = ["ickk <crates@ickk.io>"]
+description = "A very simple Raylib plugin for Bevy"
+repository = "https://github.com/ickk/bevy_raylib"
+documentation = "https://docs.rs/bevy_raylib"
+readme = "README.md"
 
 [dependencies]
 bevy_app = "0.11"
